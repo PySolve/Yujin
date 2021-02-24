@@ -12,9 +12,8 @@
 1. 그래프의 간선들을 가중치의 오름차순으로 정렬한다. 
 2. 정렬된 간선 리스트에서순서대로 사이클을 형성하지 않는 간선을 선택한다.
 3. 해당 간선을 현재의 MST(최소 비용 신장 트리)의 집합에 추가한다.
-![](https://gmlwjd9405.github.io/images/algorithm-mst/kruskal-example2.png)
-
 ```
+![](https://gmlwjd9405.github.io/images/algorithm-mst/kruskal-example2.png)
 
 ## 소스코드
 
