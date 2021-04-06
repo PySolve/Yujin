@@ -1,4 +1,4 @@
-##오르막 수
+## 오르막 수
 
 끝에 오는 수에 대한 DP 표를 작성하면 규칙을 알 수 있다.
 <img src= "https://blog.kakaocdn.net/dn/mrzbe/btq10RnvIXi/kjuQ721pgibKsrXYq0Ittk/img.jpg">
